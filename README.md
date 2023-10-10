@@ -1,4 +1,4 @@
-## Olá meu nome é Jackson Ribeiro , sou Desenvolvedor Front-End JR!
+## Olá meu nome é Jackson Ribeiro , sou Data Analytics JR!
 <div align="center">
   <a href="https://www.linkedin.com/in/jackson-ribeiro-ba8192193/">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jackson-ribeiro&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
