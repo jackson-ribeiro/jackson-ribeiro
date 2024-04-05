@@ -15,7 +15,7 @@
 ### Experiência de trabalho
 
 Na visão geral abaixo você encontrará minha experiência de trabalho mais recente:
-[<img align="left" height="94px" width="94px" alt="TRE-SE" src="https://www.tre-se.jus.br/imagens/fotos/tre-se-logo-tre/@@images/30fc966b-b784-4c3c-a195-7beb4f5217f2.jpeg"/>](https://www.tre-se.jus.br/#/)
+[<img align="left" height="94px" width="94px" alt="TRE-SE" src="https://assets.infra.grancursosonline.com.br/projeto/thumbnail-carrossel/tre-se.png"/>](https://www.tre-se.jus.br/#/)
 
 
 
