@@ -12,10 +12,15 @@
   <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
 </div>
 
-### Experiência de trabalho
+### Work Experience
 
-Na visão geral abaixo você encontrará minha experiência de trabalho mais recente:
+In the overview below you will find my most recent work experience:
 [<img align="left" height="94px" width="94px" alt="TRE-SE" src="https://assets.infra.grancursosonline.com.br/projeto/thumbnail-carrossel/tre-se.png"/>](https://www.tre-se.jus.br/#/)
+
+**Data Scientist and Analytics** \
+[**TRE-SE**](https://www.tre-se.jus.br/#/) • Intern \
+Languages and technologies: `Python`, `Docker`, `Postgres`, `Oracle`, `FastAPI`, `Gitlab`,\
+Projects: 
 
 
 
