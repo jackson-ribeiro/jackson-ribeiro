@@ -24,6 +24,7 @@ In the overview below you will find my most recent work experience:
 Languages and technologies: `Python`, `Docker`, `Postgres`, `Oracle`, `FastAPI`, `Gitlab`, \
 Projects: [JustiCodex](https://www.tre-se.jus.br/comunicacao/noticias/2023/Outubro/tre-se-disponibiliza-biblioteca-justicodex)
 <br/>
+<br/>
 
 
 
