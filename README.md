@@ -1,4 +1,4 @@
-## Olá meu nome é Jackson Ribeiro , sou Data Analytics JR!
+## Olá meu nome é Jackson Ribeiro , sou Data Scientist and Analytics JR!
 <div align="center">
   <a href="https://www.linkedin.com/in/jackson-ribeiro-ba8192193/">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jackson-ribeiro&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
@@ -12,7 +12,12 @@
   <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
 </div>
 
-  ##
+### Experiência de trabalho
+
+Na visão geral abaixo você encontrará minha experiência de trabalho mais recente:
+[<img align="left" height="94px" width="94px" alt="TRE-SE" src="https://www.tre-se.jus.br/++theme++justica_eleitoral/imagens/logos/tre-se.png"/>](https://www.tre-se.jus.br/#/)
+
+
 
 <div>
   <a href = "mailto:jacksonquest1@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
