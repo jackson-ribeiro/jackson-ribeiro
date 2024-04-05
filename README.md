@@ -21,6 +21,7 @@ In the overview below you will find my most recent work experience:
 [**TRE-SE**](https://www.tre-se.jus.br/#/) • Intern \
 Languages and technologies: `Python`, `Docker`, `Postgres`, `Oracle`, `FastAPI`, `Gitlab`,\
 Projects: 
+<br/>
 
 
 
