@@ -20,7 +20,7 @@ In the overview below you will find my most recent work experience:
 **Data Scientist and Analytics** \
 [**TRE-SE**](https://www.tre-se.jus.br/#/) • Intern \
 Languages and technologies: `Python`, `Docker`, `Postgres`, `Oracle`, `FastAPI`, `Gitlab`,\
-Projects: 
+Projects: [JustiCodex](https://www.tre-se.jus.br/comunicacao/noticias/2023/Outubro/tre-se-disponibiliza-biblioteca-justicodex)
 <br/>
 
 
