@@ -12,6 +12,8 @@
   <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
 </div>
 
+##
+
 ### Work Experience
 
 In the overview below you will find my most recent work experience:
